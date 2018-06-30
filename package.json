@@ -1,0 +1,16 @@
+{
+  "name": "node-convert",
+  "version": "1.0.0",
+  "description": "A tool that converts to and from the metric system",
+  "main": "convert.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jesse Butryn",
+  "license": "GPL-2.0",
+  "dependencies": {
+    "convert-units": "^2.3.4",
+    "lodash": "^4.17.10",
+    "yargs": "^12.0.1"
+  }
+}
